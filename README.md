@@ -1,1 +1,1 @@
-![Black lives matter](blm.gif)
+![Black lives matter](https://raw.githubusercontent.com/bitboxer/bitboxer/master/blm.gif)
