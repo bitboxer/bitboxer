@@ -2,6 +2,8 @@
 
 I am a freelance polyglot developer and love HTML5, testing, TypeScript, React(Native), Ruby and Elixir. In the last 20 years I have been in lots of different roles, from Java to Elixir, from backend developer at a 3 people team in an early phase startup to the CTO of a web agency. Some of my work can be seen on my projects page
 
+Currently focusing on **Ruby**/**Elixir** on the backend and **React**/**React Native**/**Svelte** on the frontend.
+
 Need help developing your MVP or to add new features into your current app? Need a CTO or a front/backend developer for hire? Send me [an email](mailto:bodo@tasche.me).
 
 <a href="https://twitter.com/bitboxer">
