@@ -1,6 +1,6 @@
 # Hello, I am Bodo Tasche 👋
 
-I am a freelance full stack developer and love HTML5, testing, TypeScript, React(Native), Ruby and Elixir. In the last 20 years I have been in lots of different roles, from Java to Elixir, from backend developer at a 3 people team in an early phase startup to the CTO of a web agency.
+I am a **freelance full stack** developer and love **HTML5**, **testing**, **TypeScript**, **React(Native)**, **Ruby** and **Elixir**. In the last 20 years I have been in lots of different roles, from Java to Elixir, from backend developer at a 3 people team in an early phase startup to the CTO of a web agency.
 
 Currently focusing on **Ruby**/**Elixir** on the backend and **React**/**React Native**/**Lit**/**Svelte** on the frontend.
 
