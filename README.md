@@ -6,7 +6,7 @@ Currently focusing on **Ruby**/**Elixir** on the backend and **React**/**React N
 
 Need help developing your MVP or to add new features into your current app? Need a CTO or a front/backend developer for hire? Send me [an email](mailto:bodo@tasche.me).
 
-<a href="https://hachyderm.io/@bitboxer">
+<a href="https://mastodon.social/@bitboxer">
   <img align="left" alt="Bodo Tasche's twitter" width="20px" src="https://simpleicons.now.sh/mastodon/495f7e" />
 </a>
 <a href="https://www.linkedin.com/in/bitboxer">
