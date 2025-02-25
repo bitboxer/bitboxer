@@ -9,9 +9,6 @@ Need help developing your MVP or to add new features into your current app? Need
 <a href="https://mastodon.social/@bitboxer">
   <img align="left" alt="Bodo Tasche's twitter" width="20px" src="https://simpleicons.now.sh/mastodon/495f7e" />
 </a>
-<a href="https://www.linkedin.com/in/bitboxer">
-  <img align="left" alt="Bodo Tasche's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
-</a>
 <br/>
 
 ---
